@@ -1,0 +1,3 @@
+# Keep GitHub Linguist classification 100% Python
+*.md linguist-documentation
+tests/fixtures/** linguist-detectable=false
